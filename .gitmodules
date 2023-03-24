@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "nparcomp"]
+	path = nparcomp
+	url = https://github.com/cran/nparcomp
+	shallow = true
+	registered = true
